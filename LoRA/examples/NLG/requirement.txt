@@ -1,0 +1,7 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.11.0+cu101
+transformers==4.30.2
+spacy
+tqdm
+tensorboard
+progress

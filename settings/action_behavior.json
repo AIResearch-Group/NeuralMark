@@ -1,0 +1,26 @@
+{
+    "train": {
+        "reg_new": true,
+        "reg_old": false
+    },
+    "finetune": {
+        "reg_new": false,
+        "reg_old": true
+    },
+    "pruning": {
+        "reg_new": false,
+        "reg_old": true
+    },
+    "forging": {
+        "reg_new": true,
+        "reg_old": false
+    },
+    "overwrite": {
+        "reg_new": true,
+        "reg_old": true
+    },
+    "baseline": {
+        "reg_new": false,
+        "reg_old": false
+    }
+}
