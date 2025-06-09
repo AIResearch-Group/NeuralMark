@@ -1,4 +1,4 @@
-# Hashed Watermark as a Filter: Boosting Robustness of Weight-based Neural-Network Watermarking
+# Hashed Watermark as a Filter: Defending Forging and Overwriting Attacks of Weight-based Neural-Network Watermarking
 This is the official implementation codes for Hashed Watermark as a Filter: Boosting Robustness of Weight-based Neural-Network Watermarking.
 
 ## Getting Started
