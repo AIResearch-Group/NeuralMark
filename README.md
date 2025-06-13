@@ -65,7 +65,9 @@ This script will automatically overwrite the watermarked models between CIFAR-10
 ### NeuralMark for GPT-2 (LoRA)
 Switch to `LoRA/` to reproduce the experiment results on GPT-2.
 
-XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
-XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
-XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
-XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX XXXX 
+
+## Copyright & License
+
+The code in this repository is copyrighted by Beijing Teleinfo Technology Company Ltd., China Academy of Information and Communications Technology.
+
+The software has been registered with the China Copyright Protection Center (Registration Number: 2025SR0859427).
