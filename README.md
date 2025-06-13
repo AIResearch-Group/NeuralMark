@@ -66,7 +66,7 @@ This script will automatically overwrite the watermarked models between CIFAR-10
 Switch to `LoRA/` to reproduce the experiment results on GPT-2.
 
 
-## Copyright & License
+## Copyright Notice
 
 The code in this repository is copyrighted by Beijing Teleinfo Technology Company Ltd., China Academy of Information and Communications Technology.
 
