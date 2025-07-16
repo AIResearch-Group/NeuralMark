@@ -73,3 +73,13 @@ Switch to `LoRA/` to reproduce the experiment results on GPT-2.
 The code in this repository is copyrighted by Beijing Teleinfo Technology Company Ltd., China Academy of Information and Communications Technology.
 
 The software has been registered with the China Copyright Protection Center (Registration Number: 2025SR0859427).
+
+## Contact
+
+If you have any problem with our code or have some suggestions, including the future feature, feel free to contact
+
+Jin Song (jinsongresearch@outlook.com)
+
+Yuan Yao (yaoyuan.hitsz@gmail.com)
+
+or describe it in Issues.
