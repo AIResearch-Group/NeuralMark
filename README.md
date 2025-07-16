@@ -1,6 +1,8 @@
 # Hashed Watermark as a Filter: Defending Forging and Overwriting Attacks of Weight-based Neural-Network Watermarking
 This is the official implementation codes for Hashed Watermark as a Filter: Defending Forging and Overwriting Attacks of Weight-based Neural-Network Watermarking.
 
+Paper is now available online: https://arxiv.org/abs/2507.11137
+
 ## Getting Started
 ### Datasets
 Datasets will be download automatically. Experiments are done on 5 various datasets, including CIFAR-10, CIFAR-100, Caltech-101, Caltech-256, TinyImageNet.
