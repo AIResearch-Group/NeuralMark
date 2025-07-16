@@ -25,7 +25,7 @@ The dataset folder structure should look like:
 ### Dependencies
 You can implement the experiment environment by using the instruction below :
 ```bash
-pip install -r env.txt
+pip install -r requirements.txt
 ```
 
 ## Evaluations
