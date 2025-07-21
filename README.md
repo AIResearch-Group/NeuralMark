@@ -5,7 +5,8 @@ Paper is now available online: https://arxiv.org/abs/2507.11137.
 
 ## Getting Started
 ### Datasets
-Datasets will be downloaded automatically. Experiments are conducted on five various datasets, including CIFAR-10, CIFAR-100, Caltech-101, Caltech-256, and TinyImageNet.
+
+**Datasets will be downloaded automatically**. Experiments are conducted on five various datasets, including CIFAR-10, CIFAR-100, Caltech-101, Caltech-256, and TinyImageNet.
 
 The dataset folder structure should look like:
 ```
