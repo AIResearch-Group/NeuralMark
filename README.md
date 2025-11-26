@@ -1,5 +1,6 @@
 # Hashed Watermark as a Filter: Defending Forging and Overwriting Attacks of Weight-based Neural-Network Watermarking
-This is the official implementation codes for Hashed Watermark as a Filter: Defending Forging and Overwriting Attacks of Weight-based Neural-Network Watermarking.
+This is the official implementation codes for Hashed Watermark as a Filter: Defending Forging and Overwriting Attacks of Weight-based Neural-Network Watermarking. 
+This work got accepted by AAAI 2026.
 
 Paper is now available online: https://arxiv.org/abs/2507.11137.
 
