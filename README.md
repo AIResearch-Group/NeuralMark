@@ -69,6 +69,19 @@ This script will automatically overwrite the watermarked models between CIFAR-10
 ### NeuralMark for GPT-2 (LoRA)
 Switch to `LoRA/` to reproduce the experiment results on GPT-2.
 
+## Citation
+
+```
+@inproceedings{yao2026hashed,
+  author    = {Yaoyuan Yao and Jinsong Song and Jian Jin},
+  title     = {Hashed Watermark as a Filter: A Unified Defense Against Forging and Overwriting Attacks in Neural Network Watermarking},
+  booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume     = {40},
+  number     = {42},
+  pages      = {35994--36002},
+  year       = {2026}
+}
+```
 
 ## Copyright Notice
 
