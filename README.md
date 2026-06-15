@@ -71,6 +71,7 @@ Switch to `LoRA/` to reproduce the experiment results on GPT-2.
 
 ## Citation
 
+If you find this work helpful, please consider citing:
 ```
 @inproceedings{yao2026hashed,
   author    = {Yaoyuan Yao, Jin Song, and Jian Jin},
