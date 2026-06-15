@@ -73,7 +73,7 @@ Switch to `LoRA/` to reproduce the experiment results on GPT-2.
 
 ```
 @inproceedings{yao2026hashed,
-  author    = {Yaoyuan Yao and Jinsong Song and Jian Jin},
+  author    = {Yaoyuan Yao, Jin Song, and Jian Jin},
   title     = {Hashed Watermark as a Filter: A Unified Defense Against Forging and Overwriting Attacks in Neural Network Watermarking},
   booktitle = {Proceedings of the AAAI Conference on Artificial Intelligence},
   volume     = {40},
